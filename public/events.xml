@@ -1,103 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
 <events>
- <track type="1" name="early">
+ <track type="1" name="predebut">
   <event>
-    <title>Julius Caesar invades Britain</title>
+    <title>R U Next Survival Show</title>
     <date type="start">
-      <year>55</year>
-      <era>BC</era>
+      <year>2023</year>
+      <month>06</month>
+      <day>30</day>
     </date>
     <date type="end">
-      <year>54</year>
-      <era>BC</era>
-    </date>
-    <description>Julius Caesar led the first Roman expedition to Britain, landing on the Kent coast.</description>
-    <lat>51.1789</lat>
-    <lon>1.1713</lon>
-  </event>
-
-  <event>
-    <title>Battle of Actium</title>
-    <date type="start">
-      <year>31</year>
+      <year>2023</year>
       <month>09</month>
-      <era>BC</era>
+      <day>01</day>
     </date>
-    <date type="end">
-    <year>10</year>
-    <month>07</month>
-    <era>BC</era>
-    </date>
-    <description>Octavian defeated the combined forces of Mark Antony and Cleopatra, becoming Rome's first emperor.</description>
-    <lat>38.9419</lat>
-    <lon>20.7400</lon>
-  </event>
-  </track>
- 
- <track type="2" name="mid">
-  <event>
-    <title>Storming of the Bastille</title>
-    <date type="start">
-      <year>1789</year>
-      <month>07</month>
-      <day>14</day>
-      <era>AD</era>
-    </date>
-    <date type="end">
-    </date>
-    <description>Parisian crowds stormed the Bastille fortress, marking the start of the French Revolution.</description>
-    <lat>48.8533</lat>
-    <lon>2.3692</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Prise_de_la_Bastille.jpg/640px-Prise_de_la_Bastille.jpg</media>
-  </event>
- 
-  <event>
-    <title>Declaration of the Rights of Man</title>
-    <date type="start">
-      <year>1789</year>
-      <month>08</month>
-      <day>26</day>
-      <era>AD</era>
-    </date>
-    <date type="end">
-    </date>
-    <description>The National Constituent Assembly adopted this foundational document of human rights.</description>
-    <lat>48.8566</lat>
-    <lon>2.3522</lon>
-  </event>
- 
-  <event>
-    <title>Execution of Louis XVI</title>
-    <date type="start">
-      <year>1793</year>
-      <month>01</month>
-      <day>21</day>
-      <era>AD</era>
-    </date>
-    <date type="end">
-    </date>
-    <description>King Louis XVI was guillotined at the Place de la Révolution in Paris.</description>
-    <lat>48.8656</lat>
-    <lon>2.3212</lon>
+    <description>Illit's final members were chosen based off the survivers of the K-pop survival show "R U Next".</description>
+    <lat>37.5774</lat>
+    <lon>126.8902</lon>
   </event>
  </track>
+ 
+ <track type="2" name="debut">
+   <event>
+     <title>Super Real Me</title>
+     <date type="start">
+       <year>2024</year>
+       <month>03</month>
+       <day>25</day>
+     </date>
+     <date type="end">
+     </date>
+     <description>Illit's debut with their first album "Super Real Me".</description>
+     <lat>37.53</lat>
+     <lon>126.9653</lon>
+   </event>
+   
+   <event>
+     <title>Magnetic</title>
+     <date type="start">
+       <year>2024</year>
+       <month>04</month>
+     </date>
+     <date type="end">
+     </date>
+     <description>Their title track "Magnetic" gains major attention</description>
+     <lat>34.1028</lat>
+     <lon>-118.3403</lon>
+   </event>
+ </track>
 
-<track type="3" name="late">
+<track type="3" name="postdebut">
   <event>
-    <title>Napoleon crowned Emperor</title>
+    <title>First Comeback</title>
     <date type="start">
-      <year>1804</year>
-      <month>12</month>
-      <day>02</day>
-      <era>AD</era>
+      <year>2024</year>
+      <month>10</month>
+      <day>21</day>
     </date>
     <date type="end">
     </date>
-    <description>Napoleon Bonaparte crowned himself Emperor of the French at Notre-Dame de Paris.</description>
-    <lat>48.8530</lat>
-    <lon>2.3499</lon>
-    <media>https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg/480px-David_-_Napoleon_at_the_Saint-Bernard_Pass%2C_20_May_1800.jpg</media>
+    <description>Illit releases their second album "I'll Like You"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
+  </event>
+  
+  <event>
+    <title>First Fan Concert</title>
+    <date type="start">
+      <year>2025</year>
+      <month>06</month>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit held their first fan concert "Glitter Day"</description>
+    <lat>37.5147</lat>
+    <lon>127.1275</lon>
+  </event>
+  
+  <event>
+    <title>Third Mini Album</title>
+    <date type="start">
+      <year>2025</year>
+      <month>06</month>
+      <day>16</day>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit releases their third album "Bomb"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
+  </event>
+  
+  <event>
+    <title>Fourth Mini Album</title>
+    <date type="start">
+      <year>2026</year>
+      <month>03</month>
+      <day>30</day>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit releases their fourth album "Mamihlapinatapai"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
   </event>
  </track>
 </events>
