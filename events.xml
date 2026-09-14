@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<events>
+ <track type="1" name="predebut">
+  <event>
+    <title>R U Next Survival Show</title>
+    <date type="start">
+      <year>2023</year>
+      <month>06</month>
+      <day>30</day>
+    </date>
+    <date type="end">
+      <year>2023</year>
+      <month>09</month>
+      <day>01</day>
+    </date>
+    <description>Illit's final members were chosen based off the survivers of the K-pop survival show "R U Next".</description>
+    <lat>37.5774</lat>
+    <lon>126.8902</lon>
+  </event>
+ </track>
+ 
+ <track type="2" name="debut">
+   <event>
+     <title>Super Real Me</title>
+     <date type="start">
+       <year>2024</year>
+       <month>03</month>
+       <day>25</day>
+     </date>
+     <date type="end">
+     </date>
+     <description>Illit's debut with their first album "Super Real Me".</description>
+     <lat>37.53</lat>
+     <lon>126.9653</lon>
+   </event>
+   
+   <event>
+     <title>Magnetic</title>
+     <date type="start">
+       <year>2024</year>
+       <month>04</month>
+     </date>
+     <date type="end">
+     </date>
+     <description>Their title track "Magnetic" gains major attention</description>
+     <lat>34.1028</lat>
+     <lon>-118.3403</lon>
+   </event>
+ </track>
+
+<track type="3" name="postdebut">
+  <event>
+    <title>First Comeback</title>
+    <date type="start">
+      <year>2024</year>
+      <month>10</month>
+      <day>21</day>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit releases their second album "I'll Like You"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
+  </event>
+  
+  <event>
+    <title>First Fan Concert</title>
+    <date type="start">
+      <year>2025</year>
+      <month>06</month>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit held their first fan concert "Glitter Day"</description>
+    <lat>37.5147</lat>
+    <lon>127.1275</lon>
+  </event>
+  
+  <event>
+    <title>Third Mini Album</title>
+    <date type="start">
+      <year>2025</year>
+      <month>06</month>
+      <day>16</day>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit releases their third album "Bomb"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
+  </event>
+  
+  <event>
+    <title>Fourth Mini Album</title>
+    <date type="start">
+      <year>2026</year>
+      <month>03</month>
+      <day>30</day>
+    </date>
+    <date type="end">
+    </date>
+    <description>Illit releases their fourth album "Mamihlapinatapai"</description>
+    <lat>37.53</lat>
+    <lon>126.9653</lon>
+  </event>
+ </track>
+</events>
