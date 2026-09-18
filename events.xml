@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--This is an example xml filled with random events, feel free to copy and paste your own events over these ones from the template!-->
+<?xml-model href="yip.rnc" type="application/relax-ng-compact-syntax"?>
 <events>
  <track type="1" name="predebut">
   <event>

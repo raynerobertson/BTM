@@ -1,0 +1,14 @@
+start = events
+events = element events { track+ }
+track = element track { attribute type { xsd:integer }, attribute name { text }, event+ }
+
+event = element event { title, date, date, description, lat, lon }
+title = element title { text }
+date = element date { attribute type { "start" | "end" }, year?, month?, day? }
+
+year = element year { xsd:gYear }
+month = element month { xsd:integer }
+day = element day { xsd:integer }
+description = element description { text }
+lat = element lat { xsd:decimal }
+lon = element lon { xsd:decimal }
